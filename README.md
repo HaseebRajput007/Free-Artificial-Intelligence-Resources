@@ -42,7 +42,7 @@ Here is an image that attempts to visualize the distinction between them:<br>
 
 <h1 align="center">
     <a href="https://github.com/qasim1020/Free-Artificial-Intelligence-Resources">
-        <img src = "https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/work/Images/Difference.png" width = "380" height = "380" alr = "Image">
+        <img src = "https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/test/Images/Difference.png" width = "380" height = "380" alr = "Image">
     </a>   
 </h1>
 
@@ -81,6 +81,9 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://www.datacamp.com/courses/introduction-to-machine-learning-with-r?tap_a=5644-dce66f&tap_s=463826-784532" target="_blank"> Machine Learning for Everyone By DataCamp</a></li>
 <li><a href = "https://www.edx.org/course/machine-learning?source=aw&awc=6798_1614274764_b3bfe84c18956c66ee65375b0eaaaf0c&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F" target="_blank"> Machine Learning by EdX's (Columbia University)</a></li>
 <li><a href = "https://www.classcentral.com/course/edx-machine-learning-15170" target="_blank"> Machine Learning by EdX's (The University of Texas)</a></li>
+<li><a href = "https://developers.google.com/machine-learning/crash-course?">Machine Learning Crash Course by Google</a></li>
+<li><a href = "https://www.w3schools.com/python/python_ml_getting_started.asp">Machine Learning Course at W3Schools</a></li>
+<li><a href = "https://www.kaggle.com/learn/intro-to-machine-learning">Intro to Machine Learning Course at Kaggle</a></li>
 </ul>
     
 ### FREE DATA SCIENCE COURSES:
@@ -100,6 +103,15 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
     <li><a href = "https://datasetsearch.research.google.com/" target="_blank">Google Data Sets</a></li>
     <li><a href = "https://www.kaggle.com/datasets" target="_blank">Kaggle Data Sets</a></li>
 </ul>
+
+### COMPETITION PLATFORMS
+<ul>
+    <li><a href = 'https://numer.ai/'>Numerai</a></li>
+    <li><a href = 'https://tianchi.aliyun.com/competition/gameList/activeList'>Tianchi</a></li>
+    <li><a href = 'https://omdena.com/'>Omdena</a></li>
+    <li><a href = 'https://www.hackerearth.com/hackathon/explore/field/machine-learning/'>HackerEarth</a></li>
+    <li><a href = 'https://www.aicrowd.com/'>aicrowd</a></li>
+</ul>    
 
 ### FREE DEEP LEARNING COURSES:
 
@@ -177,6 +189,15 @@ So, AI is the all-encompassing concept that initially erupted, then followed by 
 <li><a href = "https://developer.apple.com/machine-learning/" target="_blank"> Apple Resources </a></li>
 <li><a href = "https://cloud.google.com/products/ai" target="_blank"> Google Resources </a></li>
 <li><a href = "https://developers.facebook.com/developercircles/learn/" target="_blank"> Facebook Resources </a></li>
+</ul>
+
+### AI CHEAT-SHEETS:
+<ul>
+ <li><a href = "https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7" target="_blank"> Best of AI Cheat-Sheets </a></li>  
+ <li><a href = "https://github.com/afshinea/stanford-cs-229-machine-learning" target="_blank"> Stanford CS229 Machine Learning </a></li>
+ <li><a href = "https://github.com/afshinea/stanford-cs-230-deep-learning" target="_blank"> Stanford CS230 Deep Learning </a></li> 
+ <li><a href = "https://github.com/afshinea/stanford-cs-221-artificial-intelligence" target="_blank"> Stanford CS221 Artificial Intelligence </a></li> 
+ <li><a href = "http://www.aicheatsheets.com/" target="_blank"> Collection of AI Cheat-Sheets </a></li> 
 </ul>
 
 ### YOUTUBE CHANNELS
